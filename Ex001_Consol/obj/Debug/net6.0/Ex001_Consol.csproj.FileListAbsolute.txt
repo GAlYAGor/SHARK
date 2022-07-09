@@ -1,0 +1,15 @@
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\bin\Debug\net6.0\Ex001_Consol.exe
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\bin\Debug\net6.0\Ex001_Consol.deps.json
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\bin\Debug\net6.0\Ex001_Consol.runtimeconfig.json
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\bin\Debug\net6.0\Ex001_Consol.dll
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\bin\Debug\net6.0\Ex001_Consol.pdb
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\obj\Debug\net6.0\Ex001_Consol.csproj.AssemblyReference.cache
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\obj\Debug\net6.0\Ex001_Consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\obj\Debug\net6.0\Ex001_Consol.AssemblyInfoInputs.cache
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\obj\Debug\net6.0\Ex001_Consol.AssemblyInfo.cs
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\obj\Debug\net6.0\Ex001_Consol.csproj.CoreCompileInputs.cache
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\obj\Debug\net6.0\Ex001_Consol.dll
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\obj\Debug\net6.0\refint\Ex001_Consol.dll
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\obj\Debug\net6.0\Ex001_Consol.pdb
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\obj\Debug\net6.0\Ex001_Consol.genruntimeconfig.cache
+C:\Users\e-cat\OneDrive\Рабочий стол\Repoz\Examples\Ex001_Consol\obj\Debug\net6.0\ref\Ex001_Consol.dll
